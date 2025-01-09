@@ -1,3 +1,3 @@
-# codealpha_task2
-Code Alpha Internship Task 2
-Tasks 2 was to create the credit scoring model to predict the creditworthiness of individuals based on historical financial data.
+Credit scoring model to predict the credit worthiness of individuals based on historical financial data.
+This project leveraged the Logistic model and GaussianNB model for binary classification 
+This will classify whether the customer will 
